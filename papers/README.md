@@ -8,7 +8,7 @@ This directory records the two papers motivating the empirical comparison of pop
 
 - [Read PDF (NBER working-paper version, revised June 2022)](https://www.nber.org/system/files/working_papers/w22452/w22452.pdf)
 - [Published paper (AEA)](https://doi.org/10.1257/mac.20190196)
-- [Replication materials (AEA)](https://www.aeaweb.org/articles?id=10.1257/mac.20190196)
+- [Replication materials (AEA)](https://doi.org/10.1257/mac.20190196)
 
 **Relevance:** Estimate the effect of population aging on growth and decompose the results into employment and labor-productivity channels. The original paper studies U.S. states, so applying its identification strategy to countries requires care.
 
@@ -16,7 +16,7 @@ This directory records the two papers motivating the empirical comparison of pop
 
 **Daron Acemoglu and Pascual Restrepo** (2017). “Secular Stagnation? The Effect of Aging on Economic Growth in the Age of Automation.” *American Economic Review*, 107(5), 174–179.
 
-- [Read PDF (MIT-hosted author copy)](https://ide.mit.edu/sites/default/files/publications/12536.pdf)
+- [Read PDF (MIT-hosted author copy)](https://economics.mit.edu/sites/default/files/publications/Secular%20Stagnation%20-%20%20The%20Effect%20of%20Aging%20on%20Econo.pdf)
 - [Published paper (AEA)](https://doi.org/10.1257/aer.p20171101)
 - [Replication materials index (MIT)](https://economics.mit.edu/people/faculty/daron-acemoglu/data-archive)
 
